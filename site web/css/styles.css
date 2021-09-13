@@ -1,0 +1,112 @@
+body {
+    background-color: rgb(184, 45, 45) ;
+    list-style-type: none;
+    border-radius: 20px;
+
+}
+
+
+
+
+nav.Menu-nav ul li.page {
+    list-style-type: none ;
+    display: inline-block ;
+    margin-left: 15px ;
+    background-color: rgb(33, 47, 68) ;
+    border-radius: 20px;
+}
+
+nav.Menu-nav ul li.page a {
+    color: rgb(184, 45, 45);
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 12px;
+    font-size: 20px;
+    font-weight: 950 ;
+    list-style-type: none;
+
+}
+
+nav.Menu-nav ul {
+    
+    list-style-type: none;
+    margin-inline-start: 74%;
+    
+
+}
+
+nav.Menu-nav ul li.page:hover a {
+    list-style-type: none;
+    color: rgb(33, 47, 68) ;
+    background-color: rgb(184, 45, 45) ;
+    transition: 1s all;
+    
+}
+
+
+
+nav.Menu ul li.vpn1 a {
+    list-style-type: none;
+    text-decoration: none;
+    color: rgb(184, 45, 45) ;
+    margin-left: 10% ;
+    font-size: 30px ;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    padding: 12px;
+    background-color: rgb(33, 47, 68) ;
+    border-radius: 20px;
+    
+    
+
+    
+    
+}
+
+
+nav.Menu ul li.vpn1:hover a{
+    list-style-type: none;
+    color: rgb(33, 47, 68) ;
+    background-color: rgb(184, 45, 45) ;
+    transition: 1s all;
+
+} 
+
+
+nav.Menu ul li.vpn1 {
+    list-style: none ;
+}
+
+
+h2.ok {
+    margin-left: 46%;
+    margin-top: 0px ;
+    font-size: 45px ;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ; 
+    color: rgb(33, 47, 68) ;
+    
+}
+
+h1.ssd {
+    list-style: none ;
+    margin-left: 46%;
+    margin-top: 100px ;
+    font-size: 45px ;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ; 
+    color: rgb(33, 47, 68) ;
+    margin-top: 1px ;
+    
+    
+}
+
+
+h1.ssdr {
+    margin-left: 40% ;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    color: rgb(33, 47, 68) ;
+    font-size: 40px ;
+    
+}
+
+nav.Menu-nav ul li.f {
+    margin-left: 100px ;
+}
